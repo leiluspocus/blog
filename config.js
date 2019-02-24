@@ -28,8 +28,11 @@ module.exports = {
     bio: 'I write code for a living. Cookie monster.',
     contacts: {
       email: 'hello@latrmouh.org',
+      telegram: '#',
       twitter: 'leiluspocus',
-      github: 'leiluspocus'
+      github: 'leiluspocus',
+      rss: '#',
+      vkontakte: '#'
     }
   }
 };
