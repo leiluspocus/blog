@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://latrmouh.org',
+  title: 'Blog by Laïla Atrmouh',
+  subtitle: 'Technical blog and thoughts. Sometimes in French, sometimes in English.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,16 +23,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Laïla',
+    photo: '/photo.png',
+    bio: 'I write code for a living. Cookie monster.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'hello@latrmouh.org',
+      twitter: 'leiluspocus',
+      github: 'leiluspocus'
     }
   }
 };
