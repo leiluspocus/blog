@@ -1,6 +1,6 @@
 ---
 title: 'Étudier et vivre aux États-Unis'
-date: 2013-02-10T23:15:53+00:00
+date: "2013-02-10T23:15:53+00:00"
 draft: false
 template: post
 slug: /fr/etudier-aux-etats-unis-retour-dexperience/

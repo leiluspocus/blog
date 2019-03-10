@@ -1,6 +1,6 @@
 ---
 title: Look for a word in a group of div using only jQuery
-date: 2016-03-22T18:44:23+00:00 
+date: "2016-03-22T18:44:23+00:00"
 draft: false
 template: post
 slug: /en/look-for-a-word-group-divs/

@@ -1,6 +1,6 @@
 ---
 title: Setup terminal macOSX
-date: 2018-10-02T19:23:42+00:00
+date: "2018-10-02T19:23:42+00:00"
 description: Juste un petit article pour mémoriser le setup de mon terminal sur mon ordi perso sous Mac OSX.
 template: post
 draft: false

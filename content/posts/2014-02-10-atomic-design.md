@@ -1,6 +1,6 @@
 ---
 title: Atomic Design
-date: 2014-02-10T23:30:36+00:00
+date: "2014-02-10T23:30:36+00:00"
 template: post
 draft: false
 slug: /fr/atomic-design/

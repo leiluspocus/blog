@@ -1,6 +1,6 @@
 ---
 title: Write a new task using Capistrano
-date: 2016-07-18T16:31:43+00:00
+date: "2016-07-18T16:31:43+00:00"
 draft: false
 template: post
 slug: /en/create-a-new-task-capistrano/

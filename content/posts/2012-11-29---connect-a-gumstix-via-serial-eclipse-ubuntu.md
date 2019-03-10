@@ -1,6 +1,6 @@
 ---
 title: 'Connect a Gumstix via Serial Eclipse Ubuntu'
-date: 2012-11-29T23:10:47+00:00
+date: "2012-11-29T23:10:47+00:00"
 template: post
 slug: /en/connect-a-gumstix-via-serial-eclipse-ubuntu/
 category: Bugs

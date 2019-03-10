@@ -1,6 +1,6 @@
 ---
 title: 'Passing arguments in an event handler Javascript'
-date: 2013-02-26T23:19:15+00:00
+date: "2013-02-26T23:19:15+00:00"
 template: post
 draft: false
 slug: /en/passing-arguments-in-an-event-handler-javascript/

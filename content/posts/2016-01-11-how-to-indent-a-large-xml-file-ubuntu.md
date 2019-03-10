@@ -1,6 +1,6 @@
 ---
 title: How to indent a large XML file (Ubuntu)
-date: 2016-01-11T15:59:23+00:00
+date: "2016-01-11T15:59:23+00:00"
 template: post
 draft: false
 slug: /en/how-to-indent-a-large-xml-file-ubuntu/

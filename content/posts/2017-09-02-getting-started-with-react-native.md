@@ -1,6 +1,6 @@
 ---
 title: Getting started with React Native
-date: 2017-09-02T17:31:47+00:00
+date: "2017-09-02T17:31:47+00:00"
 template: post
 draft: false
 slug: /en/getting-started-with-react-native/

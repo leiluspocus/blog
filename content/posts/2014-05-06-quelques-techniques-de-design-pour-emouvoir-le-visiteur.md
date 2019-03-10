@@ -1,6 +1,6 @@
 ---
 title: Quelques techniques de design pour émouvoir le visiteur
-date: 2014-05-06T23:38:22+00:00
+date: "2014-05-06T23:38:22+00:00"
 template: post
 draft: false
 slug: /fr/quelques-techniques-de-design-pour-emouvoir-le-visiteur/

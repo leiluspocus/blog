@@ -1,6 +1,6 @@
 ---
 title: Get XML Data won't parse XML object Pentaho
-date: 2016-08-01T17:20:40+00:00
+date: "2016-08-01T17:20:40+00:00"
 template: post
 draft: false
 slug: /en/get-xml-data-wont-parse-xml-object-pentaho/

@@ -1,6 +1,6 @@
 ---
 title: Getting started with Magento
-date: 2017-08-17T23:36:15+00:00
+date: "2017-08-17T23:36:15+00:00"
 description: You never worked on a Magento project ? Here are some baby steps to get started smoothly on a Magento project.
 template: post
 slug: /en/getting-started-with-magento-2/ 

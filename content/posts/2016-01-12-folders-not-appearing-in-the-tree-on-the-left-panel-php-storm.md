@@ -1,6 +1,6 @@
 ---
 title: 'Folders not appearing in the tree on the left panel - PHP Storm'
-date: 2016-01-12T12:05:17+00:00
+date: "2016-01-12T12:05:17+00:00"
 template: post
 draft: false
 slug: /en/folders-not-appearing-in-the-tree-on-the-left-panel-php-storm/

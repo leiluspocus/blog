@@ -1,6 +1,6 @@
 --- 
 title: Hatchi, un tamagotchi rétro pour iPhone
-date: 2012-07-01T22:59:24+00:00 
+date: "2012-07-01T22:59:24+00:00"
 template: post 
 draft: false
 slug: /fr/hatchi-un-tamagotchi-retro-pour-iphone/

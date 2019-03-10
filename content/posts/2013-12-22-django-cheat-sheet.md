@@ -1,6 +1,6 @@
 ---
 title: Django Cheat Sheet
-date: 2013-12-22T23:28:23+00:00
+date: "2013-12-22T23:28:23+00:00"
 template: post
 draft: false
 slug: /en/django-cheat-sheet/

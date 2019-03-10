@@ -1,6 +1,6 @@
 ---
 title: Config Sublime Text 2
-date: 2014-12-18T16:15:51+00:00
+date: "2014-12-18T16:15:51+00:00"
 description: "Sublime Text 2 est un éditeur de texte que je trouve pratique à utiliser sur des projets front pour sa rapidité. Découvrez la configuration que j'utilise. "
 template: post
 draft: false

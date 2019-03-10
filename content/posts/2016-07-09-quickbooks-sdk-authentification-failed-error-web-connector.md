@@ -1,6 +1,6 @@
 --- 
 title: 'Quickbooks SDK - Authentification failed error (Web connector)'
-date: 2016-07-09T12:32:38+00:00
+date: "2016-07-09T12:32:38+00:00"
 draft: false
 description: How to solve the Authentication Failed error from the webconnector of Quickbooks
 template: post 

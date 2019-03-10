@@ -1,6 +1,6 @@
 ---
 title: 'Create a JSON array dynamically Javascript'
-date: 2013-03-20T23:21:59+00:00
+date: "2013-03-20T23:21:59+00:00"
 template: post
 slug: /en/create-a-json-array-dynamically-javascript/
 draft: false

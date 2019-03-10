@@ -1,6 +1,6 @@
 ---
 title: Avoir le bon carrousel pour son site Internet
-date: 2014-04-29T23:35:06+00:00
+date: "2014-04-29T23:35:06+00:00"
 template: post
 draft: false
 slug: /fr/avoir-le-bon-carrousel-pour-son-site-internet/

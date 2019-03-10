@@ -1,6 +1,6 @@
 ---
 title: Using observers in Magento 1.13 can lead to slow loading issues
-date: 2016-06-18T16:02:24+00:00
+date: "2016-06-18T16:02:24+00:00"
 description: Story of a tricky bug I had once on Magento 1.13
 template: post
 draft: false

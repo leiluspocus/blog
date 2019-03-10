@@ -1,6 +1,6 @@
 --- 
 title: 'SQL Magento Get the list of SKUs that are in a catalog_price_rule'
-date: 2015-11-24T12:16:55+00:00
+date: "2015-11-24T12:16:55+00:00"
 template: post 
 draft: false
 slug: /en/sql-magento-get-the-list-of-skus-that-are-in-a-catalog_price_rule/

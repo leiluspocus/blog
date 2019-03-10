@@ -1,6 +1,6 @@
 ---
 title: 'Sessions keep refreshing CodeIgniter'
-date: 2013-06-05T23:22:47+00:00
+date: "2013-06-05T23:22:47+00:00"
 template: post
 draft: false
 slug: /en/sessions-keep-refreshing-codeigniter/

@@ -1,6 +1,6 @@
 ---
 title: 'Magento Custom routing'
-date: 2016-05-08T19:58:55+00:00
+date: "2016-05-08T19:58:55+00:00"
 template: post
 draft: false
 slug: /en/magento-custom-routing/

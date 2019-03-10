@@ -1,6 +1,6 @@
 ---
 title: Use Meld as an external viewer for git diff on Ubuntu
-date: 2016-04-20T16:50:53+00:00
+date: "2016-04-20T16:50:53+00:00"
 template: post
 draft: false
 slug: /en/use-meld-as-an-external-viewer-for-git-diff-on-ubuntu/

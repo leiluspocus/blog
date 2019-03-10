@@ -1,6 +1,6 @@
 ---
 title: Couple of books to read for a developer
-date: 2014-09-21T18:14:45+00:00
+date: "2014-09-21T18:14:45+00:00"
 template: post
 slug: /en/couple-of-books-to-read-for-a-developer/
 category: Developer Life

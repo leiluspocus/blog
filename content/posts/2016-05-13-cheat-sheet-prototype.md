@@ -1,6 +1,6 @@
 ---
 title: 'Prototype Cheat Sheet'
-date: 2016-05-13T20:37:49+00:00
+date: "2016-05-13T20:37:49+00:00"
 template: post
 slug: /en/cheat-sheet-prototype/
 category: Javascript

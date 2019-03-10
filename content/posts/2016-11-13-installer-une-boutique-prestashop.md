@@ -1,6 +1,6 @@
 ---
 title: Installer une boutique Prestashop
-date: 2016-11-13T11:19:27+00:00
+date: "2016-11-13T11:19:27+00:00"
 description: "J'ai installé une boutique Prestashop from scratch dans le cadre d'un projet. Voici un petit débrief de mon expérience."
 template: post
 slug: /fr/installer-une-boutique-prestashop/

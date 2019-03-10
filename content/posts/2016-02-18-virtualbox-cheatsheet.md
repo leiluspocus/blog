@@ -1,6 +1,6 @@
 ---
 title: VirtualBox CheatSheet
-date: 2016-02-18T16:08:10+00:00
+date: "2016-02-18T16:08:10+00:00"
 template: post
 slug: /en/virtualbox-cheatsheet/
 category: Developer Life

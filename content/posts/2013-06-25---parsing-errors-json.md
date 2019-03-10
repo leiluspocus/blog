@@ -1,6 +1,6 @@
 ---
 title: 'Parsing errors JSON'
-date: 2013-06-25T23:26:03+00:00
+date: "2013-06-25T23:26:03+00:00"
 template: post
 draft: false
 slug: /en/parsing-errors-json/

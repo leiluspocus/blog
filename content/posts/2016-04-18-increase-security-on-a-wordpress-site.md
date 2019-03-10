@@ -1,6 +1,6 @@
 ---
 title: Increase security on a WordPress site
-date: 2016-04-18T16:34:14+00:00
+date: "2016-04-18T16:34:14+00:00"
 template: post
 draft: false
 slug: /en/increase-security-on-a-wordpress-site/

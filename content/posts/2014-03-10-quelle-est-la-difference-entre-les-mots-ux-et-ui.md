@@ -1,6 +1,6 @@
 ---
 title: Quelle est la différence entre les mots UX et UI ?
-date: 2014-03-10T23:34:33+00:00
+date: "2014-03-10T23:34:33+00:00"
 template: post
 draft: false
 slug: /fr/quelle-est-la-difference-entre-les-mots-ux-et-ui/

@@ -1,6 +1,6 @@
 ---
 title: 'PHP Customize excerpt in a WordPress post'
-date: 2016-11-25T09:05:28+00:00
+date: "2016-11-25T09:05:28+00:00"
 description: Petit code snippet pour modifier les extraits Wordpress.
 template: post
 slug: /en/php-customize-excerpt-in-a-wordpress-post/

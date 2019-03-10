@@ -1,6 +1,6 @@
 --- 
 title: NoMethodError /Ruby/Gems/2.0.0/gems/sass-3.4.8/lib/sass/plugin/compiler.rb Undefined method start
-date: 2016-04-09T16:15:08+00:00
+date: "2016-04-09T16:15:08+00:00"
 template: post
 draft: false
 slug: /en/nomethoderror-rubygems2-0-0gemssass-3-4-8libsassplugincompiler-rb-undefined-method-start/

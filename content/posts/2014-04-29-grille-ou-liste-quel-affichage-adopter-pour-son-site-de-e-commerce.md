@@ -1,6 +1,6 @@
 ---
 title: 'Grille ou liste: quel affichage adopter pour son site de e-commerce ?'
-date: 2014-04-29T23:36:26+00:00
+date: "2014-04-29T23:36:26+00:00"
 template: post
 draft: false
 slug: /fr/grille-ou-liste-quel-affichage-adopter-pour-son-site-de-e-commerce/

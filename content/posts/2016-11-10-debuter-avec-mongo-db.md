@@ -1,6 +1,6 @@
 ---
 title: Débuter avec Mongo DB
-date: 2016-11-10T09:01:20+00:00
+date: "2016-11-10T09:01:20+00:00"
 description: "Une cheatsheet des commandes dont j'ai eu besoin lorsque j'ai débuté avec MongoDB."
 template: post
 slug: /fr/debuter-avec-mongo-db/

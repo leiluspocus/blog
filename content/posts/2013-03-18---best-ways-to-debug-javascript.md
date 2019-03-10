@@ -1,6 +1,6 @@
 ---
 title: Best ways to debug Javascript
-date: 2013-03-18T23:20:37+00:00
+date: "2013-03-18T23:20:37+00:00"
 template: post
 slug: /en/best-ways-to-debug-javascript/
 category: Bugs

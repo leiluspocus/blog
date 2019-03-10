@@ -1,6 +1,6 @@
 ---
 title: 'Extract characters after the last dash of a String RegExp'
-date: 2016-01-10T16:51:21+00:00
+date: "2016-01-10T16:51:21+00:00"
 template: post
 draft: false
 slug: /en/extract-characters-after-the-last-dash-of-a-string-regexp/

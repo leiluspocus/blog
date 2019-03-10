@@ -1,6 +1,6 @@
 ---
 title: 'Git Workflow Cheatsheet'
-date: 2017-06-18T16:55:42+00:00
+date: "2017-06-18T16:55:42+00:00"
 description: 'Some commands I use frequently when I use Git. '
 template: post
 slug: /en/git-workflow-cheatsheet/

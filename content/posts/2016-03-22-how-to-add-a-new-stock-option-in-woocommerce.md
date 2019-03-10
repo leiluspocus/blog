@@ -1,6 +1,6 @@
 ---
 title: How to add a new stock option in Woocommerce
-date: 2016-03-22T18:53:53+00:00
+date: "2016-03-22T18:53:53+00:00"
 template: post
 draft: false
 slug: /en/how-to-add-a-new-stock-option-in-woocommerce/

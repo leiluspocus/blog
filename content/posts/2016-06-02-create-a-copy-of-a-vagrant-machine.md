@@ -1,6 +1,6 @@
 --- 
 title: Create a copy of a Vagrant machine
-date: 2016-06-02T18:09:22+00:00
+date: "2016-06-02T18:09:22+00:00"
 template: post
 slug: /en/create-a-copy-of-a-vagrant-machine/
 category: Developer Life

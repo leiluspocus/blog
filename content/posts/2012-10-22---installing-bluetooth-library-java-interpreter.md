@@ -1,6 +1,6 @@
 ---
 title: Installing Bluetooth library Java Interpreter
-date: 2012-10-22T23:11:53+00:00
+date: "2012-10-22T23:11:53+00:00"
 template: post
 slug: /en/installing-bluetooth-library-java-interpreter/
 draft: false
