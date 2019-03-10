@@ -1,20 +1,18 @@
 ---
-title: Pentaho - FieldHelper cannot be cast to java.lang.String
-date: "2016-09-01T13:11:20+00:00"
+title: FieldHelper cannot be cast to java.lang.String pentaho
+date: 2016-08-02T13:11:20+00:00
 template: post
+slug: /en/fieldhelper-cannot-be-cast-to-java-lang-string-pentaho/
 draft: false
-slug: "/en/pentaho-field-helper-cannot-be-cast"
-category: "ETL"
+category: ETL
 tags:
-  - "java"
-  - "pentaho"
+  - etl
+  - java
+  - pentaho
 ---
-
 I had the following error in a « User Defined Java Class » step on Pentaho Data Integration.
 
-```
-FieldHelper cannot be cast to java.lang.String
-```
+```FieldHelper cannot be cast to java.lang.String```
 
 Indeed, you have to use the getRow() method to convert the field you&rsquo;re getting into a String or any other variable type.
 
