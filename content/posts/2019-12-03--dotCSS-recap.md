@@ -3,7 +3,7 @@ title: Un après-midi à dotCSS
 date: "2019-12-07T19:23:42+00:00"
 description: Débrief de la conférence dotCSS à Paris en décembre 2019
 template: post
-draft: true
+draft: false
 slug: /fr/recapitulatif-dotCSS-decembre-2019
 category: Developer Life
 tags:
