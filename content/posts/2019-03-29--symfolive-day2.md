@@ -1,3 +1,17 @@
+---
+title: Symfony Live - Jour 2
+date: "2019-03-29T19:23:42+00:00"
+description: Débrief de la conférence Symfony Live à Paris en mars 2019
+template: post
+draft: false
+slug: /fr/symfony-life-mars-2019-jour-2
+category: Developer Life
+tags:
+  - conferences
+  - symfony
+  - php
+---
+
 # Récapitulatif - SymfonyLive 2019 Jour 2
 
 Mais qu'est-ce que je retrouve ? Des notes que j'avais prises en mars 2019 lors de la Symfony Live à Paris ! 
