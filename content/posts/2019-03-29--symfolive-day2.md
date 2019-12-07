@@ -183,7 +183,7 @@ composer require amqp-pack : possibilité de configurer un transport avec son DS
 
 # Talk #7 : TDD Symfo et ses amis
 
-Slides accessibles ici: http://bit.ly/real-world-tdd
+Slides accessibles ici: https://bit.ly/real-world-tdd
 
 Cycle : 
 - Failing Test
@@ -199,7 +199,7 @@ Codeception ?
 
 migration:diff -> compare les schémas et crée les migrations nécessaires pour mettre le schéma de la BDD à jour. 
 
-http://bit.ly/tdd-vids 
+https://bit.ly/tdd-vids 
 
 Brancher Doctrine : 
 - config_test.yml <-- Utilisé par PHPUnit 

@@ -152,7 +152,7 @@ Chargement des pages:
 
 Au parsing du DOM, le navigateur connait le DRP de l’appareil, les dimensions du viewport et la qualité du réseau. 
 
-http://responsivebreakpoints.com génère breakpoints d’images. 
+https://responsivebreakpoints.com génère breakpoints d’images. 
 
 github.com/clavetage/daltons : Utilitaire CLI pour générer des breakpoints d’image à partir de données analytics
 
