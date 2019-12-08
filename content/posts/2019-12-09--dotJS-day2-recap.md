@@ -61,10 +61,10 @@ _______
 ```
 _______
 
-WebAssembly (wasm)
-New los level bytecode format for the web. Now officially a web standard.
+<a href="https://twitter.com/vladikoff">Vlad Filippov</a> a donné un talk sur <a href="https://docs.google.com/presentation/d/1vunpCYP3ggD7Sfp6Zhvu9fm9DqEt2jsCDPHo93Va0HU/edit">WebAssembly</a> (wasm).
+C'est un nouveau language bas niveau, similaire à l'assembleur, conçu pour compléter des applications web javascript. On peut charger des modules WebAssembly dans des applications Javascript : certaines bibliothèques l'utilisent déjà comme pica. 
 
-Librairies like pica use it. Improve performance. Benchmark and keep an eye on wasm module.
+L'objectif est d'améliorer les performances. Attention cependant aux cas d'application: il faut toujours benchmarker les gains et être vigilant sur la taille du module WASP. 
 
 WebAssembly.studio
 
@@ -74,66 +74,62 @@ _____
 
 Il a présenté le cas d'une bibliothèque Delaunay qui a subi plusieurs optimisations sur des modules npm. ( delaunay-fast // faster-delaunay // delaunator étant le plus rapide)
 
-fond a bottleneck (slowest part). Profiling in Chrome.
-Slow code does unnecessary code. Complexité a vérifier : check algorithm according to input size.
+Étapes pour optimiser un algorithme:
+- Trouver le bottleneck (parties les plus longues) grâce à des outils de profiling (on sous-utilise celui de Chrome).
+- Le code lent est du code pas nécessaire
+- Être vigilant sur les complexités, faire varier le code selon les tailles d'input.
 
+```
 O(n) loop 
 O(n2) o(n3) boucles imbriquées
-Attention aux indexOf qui ont aussi grosse complexité.
+```
+
+Attention aux fonctions natives Javascript (Array.indexOf, etc.) qui ont aussi leur propre complexité (assez grosse).
+
 accidentallyquadratic.tumblr.com
 
-Memory complexity _ allocate Much memory than we need slice concat Map filter split.
+Memory complexity _ allocate Much memory than we need 
+Ces fonctions : `slice concat Map filter split` utilisent plus de  mémoire que nécessaire.
 
 O.log(n) best complexity.
 Binary search.
 
-Organisé data in some way to sort data faster. Do much at beginning (sort data) and less after.
+Astuce d'optimisation: Trier les données en entrer pour processer les données plus rapidement. En faire plus au début (tri) pour en faire moins après. 
 
-HashTable -> array. Established in not the best.
+HashTable -> Array peut faire gagner en performance. 
 
 1. Learn how things work under the wood ! Surtout dans les fonctions JS par défaut qu'on a  l'habitude d'utiliser.
+2. Tout peut être amélioré ! 
 
 ________
 
-Prettier dude.
+<a href="https://twitter.com/jlongster">James Long</a>, créateur de Prettier, a donné un talk sur la synchronisation des données sur des applications distribuées. 
 
-James Long
+Il y a parlé de la complexité de la synchronisation d'applications hors-ligne et notamment la garance de la consistance des données. 
 
-Syncing offline apps is hard. Eventual consistency.
+Un point critique est l'ordre de réception des données: utiliser un timestamp pour réordonner les datas (Vector clock, Hybrid logical clock). 
+Un timestamp existe par device et est généré / assigné à un changement émis.
 
-Unreliable ordering = setup timestamp to reorder.
+Il faut trouver des solutions les plus simples possible pour garantir la fiabilité dans un système distribué. 
 
-Vector clock.
-Hybrid logical clock. Exists per device. Generate timestamps assigned to changes.
-
-Simple solution for reliability on distributed systems.
-
-Conflicts :
-Conflicts free replicated data types. Data structures with properties (commutative order don't matter). Idempotent.
-Ensure consistency with Merkel tree.
-
+Les slides sont disponibles <a href="https://jlongster.com/s/dotjs-crdt-slides.pdf">par ici</a>.
 ____
 
-Midi is not dead musical with JS. @nodebotanist
+<a href="https://www.twitter.com/nodebotanist">@nodebotanist</a> nous a joué un son de guitare connecté à une application Node qui changeait la couleur d'une LED branchée à sa guitare. Le tout réalisé avec des bibliothèques npm suivantes: midi tonal color ws (websocket). 
 
-npm install midi tonal color
-
-npm install ws (websocket)
+@nodebotanist a aussi mis au défit les recruteurs présents de recruter quelqu'un de différent d'eux.
 
 ______
 
-@maggiepint
-Programming in the 4th dimension
-
-Date has problèmes.
-Months index from 0. Mutability. Timezone gaps.
-No date only représentation.
-
-Temporal lib. 
+@maggiepint a présenté la nouvelle librairie Temporal qui vise à résoudre les soucis actuels de Date en Javascript. (Months index from 0, Mutability, Timezone gaps, No date only représentation).
 
 _____
 
-Daniel Ehrenberg
-@littledan
+<a href="https://www.twitter.com/littledan">Daniel Ehrenberg</a> a ensuite présenté TC39, une communauté de développeurs qui améliorent Javascript et comment nous pouvons les aider.  
+
 tc39.es
 # is the new _ for strong encapsulation.
+
+
+
+J'ai passé deux jours très enrichissants et plein de découvertes / belles rencontres. J'espère pouvoir renouveler l'expérience l'an prochain ! :) 
