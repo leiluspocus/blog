@@ -70,7 +70,7 @@ WebAssembly.studio
 
 _____
 
-<a href="https://twitter.com/mourner">Vladimir Agafonkin</a> (créateur de Leaftlet) a donné un talk sur l'optimisation d'algorithmes. 
+<a href="https://twitter.com/mourner">Vladimir Agafonkin</a> (créateur de Leaflet) a donné un talk sur l'optimisation d'algorithmes. 
 
 Il a présenté le cas d'une bibliothèque Delaunay qui a subi plusieurs optimisations sur des modules npm. ( delaunay-fast // faster-delaunay // delaunator étant le plus rapide)
 
