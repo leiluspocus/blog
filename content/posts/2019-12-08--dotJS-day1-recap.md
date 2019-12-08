@@ -52,4 +52,4 @@ Il y a eu une présentation trop cool de qui a montré une application full serv
 
 Sur la dernière présentation, Evan You a présenté un comparatif de la construction de components entre Svelte, Vue et React, faisant un parallèle entre les hooks (React) et Vue Composition API. 
 
-C'est ce que j'ai retenu de cette première journée ! J'ai préféré personnellement le jour 2, dont le compte rendu arrive bientôt également :)
+C'est ce que j'ai retenu de cette première journée ! Plein d'enseignements, j'ai bien apprécié aussi le jour 2, dont le compte rendu arrive bientôt également :)
