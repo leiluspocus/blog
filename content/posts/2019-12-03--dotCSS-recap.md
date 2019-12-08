@@ -13,7 +13,7 @@ tags:
 
 # Récapitulatif - dotCSS 2019 
 
-J'ai eu la chance d'assister à dotCSS cette année grâce à des places qui ont été offertes par les dotConferences à la communauté <a href="https://www.dotconferences.com/" target="_blank">dotConferences</a>. 
+J'ai eu la chance d'assister à dotCSS cette année grâce à des places qui ont été offertes par les dotConferences à la communauté <a href="https://paris.ladiesofcode.com/" target="_blank">Ladies of Code</a>. 
 
 La conférence a commencé très fort avec une conférence de Sarah Dayan, ingénieure chez Algolia. Elle y a introduit le concept d'utility-first CSS CSS est plus efficace lorsqu'on utilise comme une bibliothèque en raison des dépendances entre le HTML et le CSS. Un composant ne sera pas réutilisable dans sa globalité, autant factoriser de plus petits éléments (typographie similaire, ou icône).
 Le CSS est plus petit à parser par le navigateur puisqu'à un seul niveau de profondeur, plus rapide à resolve. 
