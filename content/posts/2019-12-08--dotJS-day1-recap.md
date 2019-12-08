@@ -46,10 +46,10 @@ On a eu un talk de <a href="https://twitter.com/ipancreas">Jana Beck</a> sur la 
 
 Quelqu'un (oui, je n'ai pas noté son nom -_-') a présenté le compilateur javascript <a href="https://stenciljs.com/">Stencil</a>. Le truc plutôt cool: il génère un graphe de dépendances, les bundles sont optimisés selon les liens entre les components, ce qui optimise les appels HTTP. 
 
-Un contributeur Angular a expliqué comment ils géraient les montées de version d'angular. La mise en place de dépréciations en amont a aidé les utilisateurs à migrer plus facilement. Il conseille d'allouer un vrai budget pour les updates réguliers et d'automatiser les updates mineurs en utilisant des outils comme Dependabot. Il a montré un retour d'expérience de KLM qui prend de moins en moins de temps à migrer son application Angular (30jours sur les premières versions d'Angular contre 1 journée sur les versions récentes).
+<a href="https://twitter.com/IgorMinar">Igor Minar</a> a expliqué comment ils géraient les montées de version d'Angular. La mise en place de dépréciations en amont a aidé les utilisateurs à migrer plus facilement. Il conseille d'allouer un vrai budget pour les updates réguliers et d'automatiser les updates mineurs en utilisant des outils comme Dependabot. Il a montré un retour d'expérience de KLM qui prend de moins en moins de temps à migrer son application Angular (30jours sur les premières versions d'Angular contre 1 journée sur les versions récentes).
 
 Il y a eu une présentation trop cool de qui a montré une application full serverless. Il a utilisé Evently (static site generator), FaunaDB en base de données et les fonctions Netlify, webtask.io : register crons online. Sa présentation est ici: https://findthat.at/servered
 
 Sur la dernière présentation, Evan You a présenté un comparatif de la construction de components entre Svelte, Vue et React, faisant un parallèle entre les hooks (React) et Vue Composition API. 
 
-C'est ce que j'ai retenu de cette première journée ! 
+C'est ce que j'ai retenu de cette première journée ! J'ai préféré personnellement le jour 2, dont le compte rendu arrive bientôt également :)
