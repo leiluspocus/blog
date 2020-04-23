@@ -5,7 +5,7 @@ description: Débrief de la conférence dotJS Jour 2 à Paris en décembre 2019
 template: post
 draft: false
 slug: /fr/recapitulatif-dotJS-jour2-decembre-2019
-category: Developer Life
+category: Conférences
 tags:
   - conferences
   - javascript
@@ -128,8 +128,10 @@ _____
 <a href="https://www.twitter.com/littledan">Daniel Ehrenberg</a> a ensuite présenté TC39, une communauté de développeurs qui améliorent Javascript et comment nous pouvons les aider.  
 
 tc39.es
-# is the new _ for strong encapsulation.
 
+```
+# is the new _ for strong encapsulation.
+```
 
 
 J'ai passé deux jours très enrichissants et plein de découvertes / belles rencontres. J'espère pouvoir renouveler l'expérience l'an prochain ! :) 

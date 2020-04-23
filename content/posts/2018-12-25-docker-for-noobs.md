@@ -5,7 +5,7 @@ description: Juste un petit article mémo sur Docker
 template: post
 draft: false
 slug: /fr/docker-memo
-category: Developer life
+category: Cheatsheets
 tags:
   - shell
   - docker
