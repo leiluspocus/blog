@@ -3,7 +3,7 @@ title: Github pour les nuls
 date: "2013-02-10T23:14:59+00:00"
 template: post
 slug: /fr/github-pour-les-nuls/
-category: Productivité
+category: Cheatsheet
 draft: false
 tags:
   - cheat sheet

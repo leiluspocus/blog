@@ -3,7 +3,7 @@ title: Débuter avec Sails
 date: "2016-05-08T19:38:05+00:00"
 template: post
 slug: /fr/debuter-avec-sails/
-category: HackDays
+category: Rétroviseur
 tags:
   - javascript
   - node.js

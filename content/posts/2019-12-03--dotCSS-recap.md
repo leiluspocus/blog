@@ -5,7 +5,7 @@ description: Débrief de la conférence dotCSS à Paris en décembre 2019
 template: post
 draft: false
 slug: /fr/recapitulatif-dotCSS-decembre-2019
-category: Developer Life
+category: Conférences
 tags:
   - conferences
   - css

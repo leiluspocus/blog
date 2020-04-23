@@ -3,7 +3,7 @@ title: 4 astuces pour réaliser et réussir son test d'utilisabilité
 date: "2014-06-26T23:40:17+00:00"
 template: post
 slug: /fr/4-astuces-pour-realiser-et-reussir-son-test-dutilisabilite/
-category: UX
+category: Rétroviseur
 tags:
   - ui
   - ux design

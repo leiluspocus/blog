@@ -5,7 +5,7 @@ description: "Sublime Text 2 est un éditeur de texte que je trouve pratique à 
 template: post
 draft: false
 slug: /fr/config-sublime-text-2/
-category: Productivité
+category: Snippets
 tags:
   - ide
   - sublime text

@@ -5,7 +5,7 @@ description: Débrief de la conférence Symfony Live à Paris en mars 2019
 template: post
 draft: false
 slug: /fr/symfony-life-mars-2019-jour-1
-category: Developer Life
+category: Conférences
 tags:
   - conferences
   - symfony

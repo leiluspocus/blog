@@ -4,7 +4,7 @@ date: "2013-12-22T23:28:23+00:00"
 template: post
 draft: false
 slug: /en/django-cheat-sheet/
-category: HackDays
+category: Cheatsheets
 tags:
   - cheat sheet
   - django

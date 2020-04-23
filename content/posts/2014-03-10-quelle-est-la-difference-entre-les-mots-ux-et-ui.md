@@ -4,7 +4,7 @@ date: "2014-03-10T23:34:33+00:00"
 template: post
 draft: false
 slug: /fr/quelle-est-la-difference-entre-les-mots-ux-et-ui/
-category: UX
+category: Design
 tags:
   - ui
   - ux design

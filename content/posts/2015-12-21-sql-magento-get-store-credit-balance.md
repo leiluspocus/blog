@@ -4,7 +4,7 @@ date: "2015-12-21T17:48:06+00:00"
 draft: false
 template: post 
 slug: /en/sql-magento-get-store-credit-balance/
-category: Magento
+category: Snippets
 tags:
   - magento
   - sql

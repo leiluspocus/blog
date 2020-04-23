@@ -4,7 +4,7 @@ date: "2012-03-29T13:11:20+00:00"
 template: post
 draft: false
 slug: "/fr/poursuite-detudes-en-informatique/"
-category: "Feedbacks"
+category: "Rétroviseur"
 tags:
   - "études"
   - "iut"

@@ -4,7 +4,7 @@ date: "2012-03-01T13:11:20+00:00"
 template: post
 draft: false
 slug: "/fr/trouver-vie"
-category: "Expatriation"
+category: "Rétroviseur"
 tags:
   - "emploi"
   - "utc"

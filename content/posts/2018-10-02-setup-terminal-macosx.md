@@ -5,7 +5,7 @@ description: Juste un petit article pour mémoriser le setup de mon terminal sur
 template: post
 draft: false
 slug: /fr/setup-terminal-macosx/ 
-category: Developer Life
+category: Cheatsheets
 tags:
   - Command line interface
 ---

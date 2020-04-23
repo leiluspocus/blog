@@ -3,7 +3,7 @@ title: 'WordPress Curl on page returns 200 but browser returns 404'
 date: "2018-03-13T17:37:20+00:00"
 template: post
 slug: /en/wordpress-curl-on-page-returns-200-but-browser-returns-404/
-category: PHP
+category: Snippets
 tags:
   - bugs
   - http status code

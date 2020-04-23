@@ -4,7 +4,7 @@ date: "2016-04-18T16:34:14+00:00"
 template: post
 draft: false
 slug: /en/increase-security-on-a-wordpress-site/
-category: DevOps
+category: Rétroviseur
 tags:
   - security
   - wordpress

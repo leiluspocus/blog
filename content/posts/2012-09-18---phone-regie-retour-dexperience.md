@@ -4,7 +4,7 @@ date: "2012-09-18T23:00:36+00:00"
 template: post
 draft: false
 slug: "/fr/phone-regie-retour-dexperience/"
-category: "Feedbacks"
+category: "Rétroviseur"
 tags:
   - "jobs étudiant"
 description: ""

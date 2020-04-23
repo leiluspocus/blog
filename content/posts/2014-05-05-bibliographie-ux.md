@@ -4,7 +4,7 @@ date: "2014-05-05T23:37:35+00:00"
 template: post
 slug: /fr/bibliographie-ux/
 draft: false
-category: UX
+category: Design
 tags:
   - ui
   - ux design

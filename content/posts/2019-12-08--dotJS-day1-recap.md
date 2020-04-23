@@ -5,7 +5,7 @@ description: Débrief de la conférence dotJS à Paris en décembre 2019
 template: post
 draft: false
 slug: /fr/recapitulatif-dotJS-jour1-decembre-2019
-category: Developer Life
+category: Conférences
 tags:
   - conferences
   - javascript

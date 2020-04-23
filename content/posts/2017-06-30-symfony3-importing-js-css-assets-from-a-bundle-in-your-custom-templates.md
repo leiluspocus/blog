@@ -4,7 +4,7 @@ date: "2017-06-30T11:50:44+00:00"
 description: How to import bundle assets in a template (Symfony 3)
 template: post
 slug: /en/symfony3-importing-js-css-assets-from-a-bundle-in-your-custom-templates/
-category: PHP
+category: Snippets
 tags:
   - symfony
 ---

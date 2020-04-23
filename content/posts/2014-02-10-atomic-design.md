@@ -4,7 +4,7 @@ date: "2014-02-10T23:30:36+00:00"
 template: post
 draft: false
 slug: /fr/atomic-design/
-category: UX
+category: Design
 tags:
   - atomic design
   - principes

@@ -4,7 +4,7 @@ date: "2015-12-22T11:37:54+00:00"
 draft: false
 template: post 
 slug: /en/php-magento-direct-sql-queries/
-category: Magento
+category: Snippets
 tags:
   - magento
   - php

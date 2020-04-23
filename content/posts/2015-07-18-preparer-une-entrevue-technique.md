@@ -4,7 +4,7 @@ date: "2015-07-18T16:56:07+00:00"
 template: post 
 draft: false
 slug: /fr/preparer-une-entrevue-technique/
-category: Emploi
+category: Rétroviseur
 tags:
   - entretien technique
 ---

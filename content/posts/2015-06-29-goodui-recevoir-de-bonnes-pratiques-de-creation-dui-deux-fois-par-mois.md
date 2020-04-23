@@ -4,7 +4,7 @@ date: "2015-06-29T23:32:46+00:00"
 template: post
 draft: false
 slug: /fr/goodui-recevoir-de-bonnes-pratiques-de-creation-dui-deux-fois-par-mois/
-category: UX
+category: Design
 tags:
   - ui
   - ux design

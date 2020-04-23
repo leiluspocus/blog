@@ -4,7 +4,7 @@ date: "2014-03-04T23:33:25+00:00"
 template: post
 draft: false
 slug: /fr/les-influences-de-la-couleur-dans-le-processus-dachat/
-category: UX
+category: Design
 tags:
   - ux design
 ---
